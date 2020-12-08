@@ -1,0 +1,15 @@
+/Users/roxana/Desktop/ProjectBefore8/bin/Debug/net5.0/ProjectBefore8.deps.json
+/Users/roxana/Desktop/ProjectBefore8/bin/Debug/net5.0/ProjectBefore8.runtimeconfig.json
+/Users/roxana/Desktop/ProjectBefore8/bin/Debug/net5.0/ProjectBefore8.runtimeconfig.dev.json
+/Users/roxana/Desktop/ProjectBefore8/bin/Debug/net5.0/ProjectBefore8.dll
+/Users/roxana/Desktop/ProjectBefore8/bin/Debug/net5.0/ref/ProjectBefore8.dll
+/Users/roxana/Desktop/ProjectBefore8/bin/Debug/net5.0/ProjectBefore8.pdb
+/Users/roxana/Desktop/ProjectBefore8/obj/Debug/net5.0/ProjectBefore8.csprojAssemblyReference.cache
+/Users/roxana/Desktop/ProjectBefore8/obj/Debug/net5.0/ProjectBefore8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/roxana/Desktop/ProjectBefore8/obj/Debug/net5.0/ProjectBefore8.AssemblyInfoInputs.cache
+/Users/roxana/Desktop/ProjectBefore8/obj/Debug/net5.0/ProjectBefore8.AssemblyInfo.cs
+/Users/roxana/Desktop/ProjectBefore8/obj/Debug/net5.0/ProjectBefore8.csproj.CoreCompileInputs.cache
+/Users/roxana/Desktop/ProjectBefore8/obj/Debug/net5.0/ProjectBefore8.dll
+/Users/roxana/Desktop/ProjectBefore8/obj/Debug/net5.0/ref/ProjectBefore8.dll
+/Users/roxana/Desktop/ProjectBefore8/obj/Debug/net5.0/ProjectBefore8.pdb
+/Users/roxana/Desktop/ProjectBefore8/obj/Debug/net5.0/ProjectBefore8.genruntimeconfig.cache
