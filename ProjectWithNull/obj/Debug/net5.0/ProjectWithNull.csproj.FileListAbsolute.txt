@@ -1,0 +1,15 @@
+/Users/roxana/Exercism/csharp/ProjectWithNull/bin/Debug/net5.0/ProjectWithNull.deps.json
+/Users/roxana/Exercism/csharp/ProjectWithNull/bin/Debug/net5.0/ProjectWithNull.runtimeconfig.json
+/Users/roxana/Exercism/csharp/ProjectWithNull/bin/Debug/net5.0/ProjectWithNull.runtimeconfig.dev.json
+/Users/roxana/Exercism/csharp/ProjectWithNull/bin/Debug/net5.0/ProjectWithNull.dll
+/Users/roxana/Exercism/csharp/ProjectWithNull/bin/Debug/net5.0/ref/ProjectWithNull.dll
+/Users/roxana/Exercism/csharp/ProjectWithNull/bin/Debug/net5.0/ProjectWithNull.pdb
+/Users/roxana/Exercism/csharp/ProjectWithNull/obj/Debug/net5.0/ProjectWithNull.csprojAssemblyReference.cache
+/Users/roxana/Exercism/csharp/ProjectWithNull/obj/Debug/net5.0/ProjectWithNull.GeneratedMSBuildEditorConfig.editorconfig
+/Users/roxana/Exercism/csharp/ProjectWithNull/obj/Debug/net5.0/ProjectWithNull.AssemblyInfoInputs.cache
+/Users/roxana/Exercism/csharp/ProjectWithNull/obj/Debug/net5.0/ProjectWithNull.AssemblyInfo.cs
+/Users/roxana/Exercism/csharp/ProjectWithNull/obj/Debug/net5.0/ProjectWithNull.csproj.CoreCompileInputs.cache
+/Users/roxana/Exercism/csharp/ProjectWithNull/obj/Debug/net5.0/ProjectWithNull.dll
+/Users/roxana/Exercism/csharp/ProjectWithNull/obj/Debug/net5.0/ref/ProjectWithNull.dll
+/Users/roxana/Exercism/csharp/ProjectWithNull/obj/Debug/net5.0/ProjectWithNull.pdb
+/Users/roxana/Exercism/csharp/ProjectWithNull/obj/Debug/net5.0/ProjectWithNull.genruntimeconfig.cache
