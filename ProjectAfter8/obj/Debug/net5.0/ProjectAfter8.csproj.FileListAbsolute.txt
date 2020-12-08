@@ -1,0 +1,15 @@
+/Users/roxana/Desktop/ProjectAfter8/bin/Debug/net5.0/ProjectAfter8.deps.json
+/Users/roxana/Desktop/ProjectAfter8/bin/Debug/net5.0/ProjectAfter8.runtimeconfig.json
+/Users/roxana/Desktop/ProjectAfter8/bin/Debug/net5.0/ProjectAfter8.runtimeconfig.dev.json
+/Users/roxana/Desktop/ProjectAfter8/bin/Debug/net5.0/ProjectAfter8.dll
+/Users/roxana/Desktop/ProjectAfter8/bin/Debug/net5.0/ref/ProjectAfter8.dll
+/Users/roxana/Desktop/ProjectAfter8/bin/Debug/net5.0/ProjectAfter8.pdb
+/Users/roxana/Desktop/ProjectAfter8/obj/Debug/net5.0/ProjectAfter8.csprojAssemblyReference.cache
+/Users/roxana/Desktop/ProjectAfter8/obj/Debug/net5.0/ProjectAfter8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/roxana/Desktop/ProjectAfter8/obj/Debug/net5.0/ProjectAfter8.AssemblyInfoInputs.cache
+/Users/roxana/Desktop/ProjectAfter8/obj/Debug/net5.0/ProjectAfter8.AssemblyInfo.cs
+/Users/roxana/Desktop/ProjectAfter8/obj/Debug/net5.0/ProjectAfter8.csproj.CoreCompileInputs.cache
+/Users/roxana/Desktop/ProjectAfter8/obj/Debug/net5.0/ProjectAfter8.dll
+/Users/roxana/Desktop/ProjectAfter8/obj/Debug/net5.0/ref/ProjectAfter8.dll
+/Users/roxana/Desktop/ProjectAfter8/obj/Debug/net5.0/ProjectAfter8.pdb
+/Users/roxana/Desktop/ProjectAfter8/obj/Debug/net5.0/ProjectAfter8.genruntimeconfig.cache
